@@ -10,7 +10,7 @@ I use it to make keyboard brightness buttons, and to set some to regular functio
 # Run it
 Needs python, should run with Xcode's Command Line tools installed with no extra dependencies.
 ```
-curl -L https://github.com/Bootlessjam/funcremap/raw/refs/heads/main/funcremap.py | python
+curl -L https://github.com/Bootlessjam/funcKeyRemap/raw/refs/heads/main/funckeyremap.py | python
 ```
 
 # How it works
